@@ -24,3 +24,5 @@
 
 By collecting sustainable items, the player will gain points accordingly, and the higher the points the better as there is a high score feature. Overall, Eco Runner: Path To Sustainability is engaging and can also be considered as an educational arcade game that encourages players to think about the importance of zero hunger, good health and well-being, and clean water and sanitation while being challenged.
 
+#### PROJECT DOCUMENTATION
+* [](https://docs.google.com/document/d/1h3pRCyND9wMAjqZhV6zunbGvhCYGkI9eRd2m4kCs02k/edit?usp=sharing)
